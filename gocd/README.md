@@ -1,6 +1,6 @@
-## go Continuous Delivery Dockerfiles
+## Dockerfiles for Go - Continuous Delivery
 
-This repository contains **Dockerfiles** for [go Continuous Delivery](http://www.go.cd/).
+This repository contains **Dockerfiles** for [Go - Continuous Delivery](http://www.go.cd/).
 
 ### Base Docker Image
 
